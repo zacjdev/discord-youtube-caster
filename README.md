@@ -1,3 +1,5 @@
-let random people play things on your speaker!
+# Discord YouTube Caster
 
-setup: put bot token and cast name in files
+A discord.py bot that lets random people play any youtube link on your ChromeCast.
+
+Setup: put bot token and cast name in files
